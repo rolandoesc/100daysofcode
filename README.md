@@ -18,3 +18,7 @@ Reference: https://learn.freecodecamp.org/responsive-web-design/basic-css
 #### Day 3 ####
 
 I started working with a new Angular Project because of my job. I feel like I'm forgetting things, being HTML the first one. 😫
+
+#### Day 4 ####
+
+After giving myself some time, searching and trying, this Angular Project is getting easier, I'm feeling confident now! 😋 😋 😋
