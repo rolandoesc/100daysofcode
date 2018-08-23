@@ -13,3 +13,8 @@ Reference: https://hyperledger-fabric.readthedocs.io/en/latest/whatis.html
 Studying a little bit more of the usage of CSS variables and Visual Design, I didn't know <s> <em> <u> tags even existed! 😱😱😱
 
 Reference: https://learn.freecodecamp.org/responsive-web-design/basic-css
+
+
+#### Day 3 ####
+
+I started working with a new Angular Project because of my job. I feel like I'm forgetting things, being HTML the first one. 😫
