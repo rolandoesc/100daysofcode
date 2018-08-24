@@ -22,3 +22,7 @@ I started working with a new Angular Project because of my job. I feel like I'm 
 #### Day 4 ####
 
 After giving myself some time, searching and trying, this Angular Project is getting easier, I'm feeling confident now! 😋 😋 😋
+
+#### Day 5 ####
+
+Studying more CSS in order to use it on my Angular P. nothing can stop me! 💪 💪 💪
