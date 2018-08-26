@@ -26,3 +26,7 @@ After giving myself some time, searching and trying, this Angular Project is get
 #### Day 5 ####
 
 Studying more CSS in order to use it on my Angular P. nothing can stop me! 💪 💪 💪
+
+#### Day 6 ####
+
+I haven't coded anything today, gf's birthday was my top priority today. :) Tomorrow I'll be coding most of the day for sure! 
