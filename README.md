@@ -30,3 +30,7 @@ Studying more CSS in order to use it on my Angular P. nothing can stop me! 💪 
 #### Day 6 ####
 
 I haven't coded anything today, gf's birthday was my top priority today. :) Tomorrow I'll be coding most of the day for sure! 
+
+#### Day 7 ####
+
+Installed Manjaro Linux, worked a little bit on CSS + Bulma and started setting my environment for the coming days, not bad at all. 😉
