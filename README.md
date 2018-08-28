@@ -34,3 +34,8 @@ I haven't coded anything today, gf's birthday was my top priority today. :) Tomo
 #### Day 7 ####
 
 Installed Manjaro Linux, worked a little bit on CSS + Bulma and started setting my environment for the coming days, not bad at all. 😉
+
+
+#### Day 8 ####
+
+Working with ngModel, it's been a piece of work somehow, also organized a Pair Programming with a colleague, it's been quite nice. 😉
