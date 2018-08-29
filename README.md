@@ -39,3 +39,8 @@ Installed Manjaro Linux, worked a little bit on CSS + Bulma and started setting 
 #### Day 8 ####
 
 Working with ngModel, it's been a piece of work somehow, also organized a Pair Programming with a colleague, it's been quite nice. 😉
+
+
+#### Day 9 ####
+
+Hyperledger Fabric is quite my Everest, still learning how to use it.
