@@ -44,3 +44,8 @@ Working with ngModel, it's been a piece of work somehow, also organized a Pair P
 #### Day 9 ####
 
 Hyperledger Fabric is quite my Everest, still learning how to use it.
+
+
+#### Day 10 ####
+
+Trying to fix Angular 'bugs' I believe I created. Also I finished a memory card game using Vanilla JS ---> https://github.com/rolandoesc/memory-card-game
