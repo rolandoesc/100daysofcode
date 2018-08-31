@@ -49,3 +49,7 @@ Hyperledger Fabric is quite my Everest, still learning how to use it.
 #### Day 10 ####
 
 Trying to fix Angular 'bugs' I believe I created. Also I finished a memory card game using Vanilla JS ---> https://github.com/rolandoesc/memory-card-game
+
+#### Day 11 ####
+
+I'm getting faster at designing small features with CSS. :) Also I've managed to be more productive using Pomello, all Trello & Pomodoro in just one app!
