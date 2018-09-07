@@ -50,6 +50,33 @@ Hyperledger Fabric is quite my Everest, still learning how to use it.
 
 Trying to fix Angular 'bugs' I believe I created. Also I finished a memory card game using Vanilla JS ---> https://github.com/rolandoesc/memory-card-game
 
+
 #### Day 11 ####
 
 I'm getting faster at designing small features with CSS. :) Also I've managed to be more productive using Pomello, all Trello & Pomodoro in just one app!
+
+
+#### Day 12 ####
+
+I've been working on two angular projects because of my work and finally got a blockchain query working. 
+
+
+#### Day 13 #### 
+
+It had been just relaxing with my girlfriend, it was a stressful week.
+
+#### Day 14 ####
+
+Studying more about Angular, this framework is pretty close to be a Suite.
+
+#### Day 15 #### 
+
+My productivity has never been so high after working using Pomello. I learned (and developed) so many things on Angular I don't even know where to start with.
+
+#### Day 16 ####
+
+I'm achieving goals at my work, I cannot feel any happier! 😃
+
+#### Day 17 ####
+
+I finished my first PoC (Proof of Concept) related with blockchain! I'm eager to see what's next! 😄
